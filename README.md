@@ -1,2 +1,2 @@
 # Image Classification Python
-A Python Mushroom Image Recognition Project ( Artificial Intelligence ) using CNN method
+ Python Mushroom Image Recognition System Project ( Artificial Intelligence ) using CNN method
